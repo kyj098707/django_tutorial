@@ -1,6 +1,6 @@
 from cProfile import Profile
 from django.shortcuts import render
-from django.urls import reverse_lazy,reverse
+from django.urls import reverse
 from django.views.generic import CreateView, UpdateView
 from profileapp.decorators import profile_ownership_required
 from profileapp.models import Profile

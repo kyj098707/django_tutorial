@@ -110,3 +110,8 @@ static_collected
 .vscode/settings.json
 
 __pycache__/
+
+profile/
+project/
+article/
+aws_test_key.pem

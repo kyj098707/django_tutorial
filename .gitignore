@@ -113,3 +113,4 @@ __pycache__/
 
 media/
 secrets.json
+aws_test_key.pem

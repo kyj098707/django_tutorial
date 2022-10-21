@@ -115,3 +115,4 @@ profile/
 project/
 article/
 aws_test_key.pem
+secrets.json

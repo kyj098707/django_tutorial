@@ -111,8 +111,5 @@ static_collected
 
 __pycache__/
 
-profile/
-project/
-article/
-aws_test_key.pem
+media/
 secrets.json
